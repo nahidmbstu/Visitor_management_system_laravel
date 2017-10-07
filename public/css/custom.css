@@ -1,0 +1,13 @@
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+
+}
+
+
+@media print {
+  #button {
+    display: none;
+  }
+}
