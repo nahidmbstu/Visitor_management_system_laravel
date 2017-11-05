@@ -32,13 +32,13 @@
       <td><img src="{{ $n->photo }}" width="100px" height="75px"></td>
       <td>{{ $n->note }}</td>
       
-      <!-- <td>
+      <td>
         {!! link_to('guest/'.$n->id.'/edit','Edit',['class'=>'btn btn-warning btn-sm']) !!}
         <button class="btn btn-danger btn-sm"><a href = 'delete/{{ $n->id }}'>Delete</a>
         </button>
         </td>
       </td>
- -->
+
 
      </tr>
      <tr>
@@ -70,7 +70,7 @@ function myFunction()
    </form> -->
    
 
-    <script src="{{ asset('js/app.js') }}"></script> 
+    <script src="{{ asset('public/js/app.js') }}"></script> 
 
 
 @stop

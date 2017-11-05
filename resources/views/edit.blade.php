@@ -58,5 +58,5 @@
 	</table>
 	{!! Form::close() !!}
 
-	 <script src="{{ asset('js/app.js') }}"></script> 
+	
 @stop
