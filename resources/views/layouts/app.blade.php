@@ -11,8 +11,8 @@
 <title>Visitor Management System</title>
 
 <!-- Styles -->
-<link href="{{ url('css/app.css') }}" rel="stylesheet">
-<link href="{{ url('css/custom.css') }}" rel="stylesheet">
+<link href="{{asset('css/app.css') }}" rel="stylesheet">
+<link href="{{asset('css/custom.css')}}" rel="stylesheet">
 
 
 <!-- end style -->
