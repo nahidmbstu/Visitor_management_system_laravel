@@ -36,7 +36,7 @@
 
 <!-- Branding Image -->
 <a class="navbar-brand" href="{{url('/logcheck')}}">
-<img src="{{asset('public/images/logo-black.png')}}" alt="bond" width="60px;" height="45px;" class="img-responsive"/>
+<img src="{{asset('images/logo-black.png')}}" alt="bond" width="60px;" height="45px;" class="img-responsive"/>
 </a>
 
 </div>

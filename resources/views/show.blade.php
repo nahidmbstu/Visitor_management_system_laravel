@@ -57,5 +57,5 @@
 
    </dir>
 
-    <script src="{{ asset('public/js/app.js') }}"></script> 
+    <script src="{{ url('js/app.js') }}"></script> 
 @stop
