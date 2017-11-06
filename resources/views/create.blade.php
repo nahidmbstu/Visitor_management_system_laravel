@@ -5,6 +5,7 @@
     	
     
 	<h3 >Register new Guest</h3>
+	<p>change the http:// to https:// </p>
 	{!! Form::open(array('url'=>'guest', 'files' => true )) !!}
 	<table class="table table-bordered" >
 		<tr>
