@@ -5,6 +5,10 @@ https://vms-laravel-demo.herokuapp.com/
 register first
 https://vms-laravel-demo.herokuapp.com/register
 
+when register guest change the http to https 
+http://vms-laravel-demo.herokuapp.com/guest/create
+
+
 
 
 
